@@ -1,0 +1,57 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=true]": {
+			"name": "greenhouse_glass",
+			"geometry": "geometry.blocks.block_16x16",
+			"material_instances": {
+				"*": {
+					"texture": "greenhouse_glass",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+		"minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=false]": {
+			"name": "gigantic_tomato",
+			"geometry": "geometry.blocks.customcrops.tomato.gigantic_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "tomato_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false
+        },
+		"minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=false]": {
+			"name": "gigantic_pineapple",
+			"geometry": "geometry.blocks.customcrops.pineapple.gigantic_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pineapple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false
+        },
+		"minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=true]": {
+			"name": "gigantic_cabbage",
+			"geometry": "geometry.blocks.customcrops.cabbage.gigantic_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false
+        }
+    }
+}

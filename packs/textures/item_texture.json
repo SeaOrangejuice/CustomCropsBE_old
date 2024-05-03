@@ -1,0 +1,396 @@
+{
+  "resource_pack_name": "soojcraft_pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "sprinkler_1_item": {
+      "textures": [
+        "textures/items/customcrops/base/sprinkler_1_item"
+      ]
+    },
+    "sprinkler_2_item": {
+      "textures": [
+        "textures/items/customcrops/base/sprinkler_2_item"
+      ]
+    },
+    "sprinkler_3_item": {
+      "textures": [
+        "textures/items/customcrops/base/sprinkler_3_item"
+      ]
+    },
+    "crop_stage_death": {
+      "textures": [
+        "textures/items/customcrops/base/dead_crop"
+      ]
+    },
+    "soil_surveyor": {
+      "textures": [
+        "textures/items/customcrops/base/soil_surveyor"
+      ]
+    },
+    "speed_grow_1": {
+      "textures": [
+        "textures/items/customcrops/base/speed_1"
+      ]
+    },
+    "speed_grow_2": {
+      "textures": [
+        "textures/items/customcrops/base/speed_2"
+      ]
+    },
+    "speed_grow_3": {
+      "textures": [
+        "textures/items/customcrops/base/speed_3"
+      ]
+    },
+    "quality_1": {
+      "textures": [
+        "textures/items/customcrops/base/quality_1"
+      ]
+    },
+    "quality_2": {
+      "textures": [
+        "textures/items/customcrops/base/quality_2"
+      ]
+    },
+    "quality_3": {
+      "textures": [
+        "textures/items/customcrops/base/quality_3"
+      ]
+    },
+    "yield_increase_1": {
+      "textures": [
+        "textures/items/customcrops/base/quantity_1"
+      ]
+    },
+    "yield_increase_2": {
+      "textures": [
+        "textures/items/customcrops/base/quantity_2"
+      ]
+    },
+    "yield_increase_3": {
+      "textures": [
+        "textures/items/customcrops/base/quantity_3"
+      ]
+    },
+    "soil_retain_1": {
+      "textures": [
+        "textures/items/customcrops/base/retaining_1"
+      ]
+    },
+    "soil_retain_2": {
+      "textures": [
+        "textures/items/customcrops/base/retaining_2"
+      ]
+    },
+    "soil_retain_3": {
+      "textures": [
+        "textures/items/customcrops/base/retaining_3"
+      ]
+    },
+    "variation_1": {
+      "textures": [
+        "textures/items/customcrops/base/gigantic_1"
+      ]
+    },
+    "variation_2": {
+      "textures": [
+        "textures/items/customcrops/base/gigantic_2"
+      ]
+    },
+    "variation_3": {
+      "textures": [
+        "textures/items/customcrops/base/gigantic_3"
+      ]
+    },
+    "redpacket": {
+      "textures": [
+        "textures/items/customcrops/redpacket/redpacket"
+      ]
+    },
+    "redpacket_seeds": {
+      "textures": [
+        "textures/items/customcrops/redpacket/redpacket_seeds"
+      ]
+    },
+    "tomato": {
+      "textures": [
+        "textures/items/customcrops/tomato/tomato"
+      ]
+    },
+    "golden_tomato": {
+      "textures": [
+        "textures/items/customcrops/tomato/golden_tomato"
+      ]
+    },
+    "tomato_silver_star": {
+      "textures": [
+        "textures/items/customcrops/tomato/tomato_silver_star"
+      ]
+    },
+    "tomato_golden_star": {
+      "textures": [
+        "textures/items/customcrops/tomato/tomato_golden_star"
+      ]
+    },
+    "tomato_seeds": {
+      "textures": [
+        "textures/items/customcrops/tomato/tomato_seeds"
+      ]
+    },
+    "pitaya_seeds": {
+      "textures": [
+        "textures/items/customcrops/pitaya/pitaya_seeds"
+      ]
+    },
+    "pitaya": {
+      "textures": [
+        "textures/items/customcrops/pitaya/pitaya"
+      ]
+    },
+    "pitaya_silver_star": {
+      "textures": [
+        "textures/items/customcrops/pitaya/pitaya_silver_star"
+      ]
+    },
+    "pitaya_golden_star": {
+      "textures": [
+        "textures/items/customcrops/pitaya/pitaya_golden_star"
+      ]
+    },
+    "pineapple_seeds": {
+      "textures": [
+        "textures/items/customcrops/pineapple/pineapple_seeds"
+      ]
+    },
+    "pineapple": {
+      "textures": [
+        "textures/items/customcrops/pineapple/pineapple"
+      ]
+    },
+    "pineapple_silver_star": {
+      "textures": [
+        "textures/items/customcrops/pineapple/pineapple_silver_star"
+      ]
+    },
+    "pineapple_golden_star": {
+      "textures": [
+        "textures/items/customcrops/pineapple/pineapple_golden_star"
+      ]
+    },
+    "pepper_seeds": {
+      "textures": [
+        "textures/items/customcrops/pepper/pepper_seeds"
+      ]
+    },
+    "pepper": {
+      "textures": [
+        "textures/items/customcrops/pepper/pepper"
+      ]
+    },
+    "pepper_silver_star": {
+      "textures": [
+        "textures/items/customcrops/pepper/pepper_silver_star"
+      ]
+    },
+    "pepper_golden_star": {
+      "textures": [
+        "textures/items/customcrops/pepper/pepper_golden_star"
+      ]
+    },
+    "hop_seeds": {
+      "textures": [
+        "textures/items/customcrops/hop/hop_seeds"
+      ]
+    },
+    "hop": {
+      "textures": [
+        "textures/items/customcrops/hop/hop"
+      ]
+    },
+    "hop_silver_star": {
+      "textures": [
+        "textures/items/customcrops/hop/hop_silver_star"
+      ]
+    },
+    "hop_golden_star": {
+      "textures": [
+        "textures/items/customcrops/hop/hop_golden_star"
+      ]
+    },
+    "grape_seeds": {
+      "textures": [
+        "textures/items/customcrops/grape/grape_seeds"
+      ]
+    },
+    "grape": {
+      "textures": [
+        "textures/items/customcrops/grape/grape"
+      ]
+    },
+    "grape_silver_star": {
+      "textures": [
+        "textures/items/customcrops/grape/grape_silver_star"
+      ]
+    },
+    "grape_golden_star": {
+      "textures": [
+        "textures/items/customcrops/grape/grape_golden_star"
+      ]
+    },
+    "garlic_seeds": {
+      "textures": [
+        "textures/items/customcrops/garlic/garlic_seeds"
+      ]
+    },
+    "garlic": {
+      "textures": [
+        "textures/items/customcrops/garlic/garlic"
+      ]
+    },
+    "garlic_silver_star": {
+      "textures": [
+        "textures/items/customcrops/garlic/garlic_silver_star"
+      ]
+    },
+    "garlic_golden_star": {
+      "textures": [
+        "textures/items/customcrops/garlic/garlic_golden_star"
+      ]
+    },
+    "eggplant_seeds": {
+      "textures": [
+        "textures/items/customcrops/eggplant/eggplant_seeds"
+      ]
+    },
+    "eggplant": {
+      "textures": [
+        "textures/items/customcrops/eggplant/eggplant"
+      ]
+    },
+    "eggplant_silver_star": {
+      "textures": [
+        "textures/items/customcrops/eggplant/eggplant_silver_star"
+      ]
+    },
+    "eggplant_golden_star": {
+      "textures": [
+        "textures/items/customcrops/eggplant/eggplant_golden_star"
+      ]
+    },
+    "corn_seeds": {
+      "textures": [
+        "textures/items/customcrops/corn/corn"
+      ]
+    },
+    "corn": {
+      "textures": [
+        "textures/items/customcrops/corn/corn_seeds"
+      ]
+    },
+    "corn_silver_star": {
+      "textures": [
+        "textures/items/customcrops/corn/corn_silver_star"
+      ]
+    },
+    "corn_golden_star": {
+      "textures": [
+        "textures/items/customcrops/corn/corn_golden_star"
+      ]
+    },
+    "chinese_cabbage_seeds": {
+      "textures": [
+        "textures/items/customcrops/chinese_cabbage/chinese_cabbage_seeds"
+      ]
+    },
+    "chinese_cabbage": {
+      "textures": [
+        "textures/items/customcrops/chinese_cabbage/chinese_cabbage"
+      ]
+    },
+    "chinese_cabbage_silver_star": {
+      "textures": [
+        "textures/items/customcrops/chinese_cabbage/chinese_cabbage_silver_star"
+      ]
+    },
+    "chinese_cabbage_golden_star": {
+      "textures": [
+        "textures/items/customcrops/chinese_cabbage/chinese_cabbage_golden_star"
+      ]
+    },
+    "cabbage_seeds": {
+      "textures": [
+        "textures/items/customcrops/cabbage/cabbage_seeds"
+      ]
+    },
+    "cabbage": {
+      "textures": [
+        "textures/items/customcrops/cabbage/cabbage"
+      ]
+    },
+    "cabbage_silver_star": {
+      "textures": [
+        "textures/items/customcrops/cabbage/cabbage_silver_star"
+      ]
+    },
+    "cabbage_golden_star": {
+      "textures": [
+        "textures/items/customcrops/cabbage/cabbage_golden_star"
+      ]
+    },
+    "pot": {
+      "textures": [
+        "textures/items/td/pot"
+      ]
+    },
+    "water_pot": {
+      "textures": [
+        "textures/items/td/water_pot"
+      ]
+    },
+    "gigantic_tomato": {
+      "textures": [
+        "textures/items/td/gigantic_tomato"
+      ]
+    },
+    "gigantic_pineapple": {
+      "textures": [
+        "textures/items/td/gigantic_pineapple"
+      ]
+    },
+    "gigantic_cabbage": {
+      "textures": [
+        "textures/items/td/gigantic_cabbage"
+      ]
+    },
+    "greenhouse_glass": {
+      "textures": [
+        "textures/items/td/greenhouse_glass"
+      ]
+    },
+    "watering_can_1": {
+      "textures": [
+        "textures/items/td/5"
+      ]
+    },
+    "watering_can_2": {
+      "textures": [
+        "textures/items/td/6"
+      ]
+    },
+    "watering_can_3": {
+      "textures": [
+        "textures/items/td/7"
+      ]
+    },
+    "watering_can_4": {
+      "textures": [
+        "textures/items/td/8"
+      ]
+    },
+    "scarecrow": {
+      "textures": [
+        "textures/items/td/4"
+      ]
+    }
+  }
+}

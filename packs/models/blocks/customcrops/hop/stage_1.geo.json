@@ -1,0 +1,73 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.blocks.customcrops.hop.stage_1_geo.soojcraft",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-0.5, 0, -6],
+							"size": [0, 23, 12],
+							"uv": {
+								"east": {"uv": [13, 5.75], "uv_size": [-3, 5.75]}
+							}
+						},
+						{
+							"origin": [-6.5, 0, 0],
+							"size": [12, 23, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [3, 5.75]}
+							}
+						},
+						{
+							"origin": [-6, 23, -0.5],
+							"size": [12, 1, 1],
+							"uv": {
+								"north": {"uv": [6.5, 0.25], "uv_size": [3, 0.25]},
+								"east": {"uv": [6.25, 0.25], "uv_size": [0.25, 0.25]},
+								"south": {"uv": [9.75, 0.25], "uv_size": [3, 0.25]},
+								"west": {"uv": [9.5, 0.25], "uv_size": [0.25, 0.25]},
+								"up": {"uv": [9.5, 0], "uv_size": [-3, 0.25]},
+								"down": {"uv": [9.5, 0.25], "uv_size": [3, -0.25]}
+							}
+						},
+						{
+							"origin": [-7.9, 0, -1],
+							"size": [2, 25, 2],
+							"uv": {
+								"north": {"uv": [6.75, 6.25], "uv_size": [-0.5, 6.25]},
+								"east": {"uv": [7.25, 6.25], "uv_size": [-0.5, 6.25]},
+								"south": {"uv": [7.75, 6.25], "uv_size": [-0.5, 6.25]},
+								"west": {"uv": [6.25, 6.25], "uv_size": [-0.5, 6.25]},
+								"up": {"uv": [6.75, 5.75], "uv_size": [-0.5, 0.5]},
+								"down": {"uv": [7.25, 6.25], "uv_size": [-0.5, -0.5]}
+							}
+						},
+						{
+							"origin": [5.9, 0, -1],
+							"size": [2, 25, 2],
+							"uv": {
+								"north": {"uv": [6.25, 12.5], "uv_size": [0.5, -6.25]},
+								"east": {"uv": [6.25, 6.25], "uv_size": [-0.5, 6.25]},
+								"south": {"uv": [7.75, 12.5], "uv_size": [-0.5, -6.25]},
+								"west": {"uv": [6.75, 6.25], "uv_size": [-0.5, 6.25]},
+								"up": {"uv": [6.25, 5.75], "uv_size": [0.5, 0.5]},
+								"down": {"uv": [6.75, 6.25], "uv_size": [0.5, -0.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

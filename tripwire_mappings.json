@@ -1,0 +1,975 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=false,west=true]": {
+			"name": "tomato_stage_1",
+			"destructible_by_mining": 0.1,
+			"geometry": "geometry.blocks.customcrops.tomato.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "tomato_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=false,west=true]": {
+			"name": "tomato_stage_2",
+			"geometry": "geometry.blocks.customcrops.tomato.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "tomato_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+        },
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=true,west=false]": {
+			"name": "tomato_stage_3",
+			"geometry": "geometry.blocks.customcrops.tomato.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "tomato_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+        },
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=true,west=false]": {
+			"name": "tomato_stage_4",
+			"geometry": "geometry.blocks.customcrops.tomato.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "tomato_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+        },
+		"minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=false,south=false,west=true]": {
+			"name": "tomato_stage_golden",
+			"geometry": "geometry.blocks.customcrops.tomato.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "tomato_golden_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+        },
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=false,west=false]": {
+			"name": "pitaya_stage_1",
+			"geometry": "geometry.blocks.customcrops.pitaya.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pitaya_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=false,west=false]": {
+			"name": "pitaya_stage_2",
+			"geometry": "geometry.blocks.customcrops.pitaya.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pitaya_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=false,west=true]": {
+			"name": "pitaya_stage_3",
+			"geometry": "geometry.blocks.customcrops.pitaya.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pitaya_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=false,west=true]": {
+			"name": "pitaya_stage_4",
+			"geometry": "geometry.blocks.customcrops.pitaya.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pitaya_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=false,west=false]": {
+			"name": "pitaya_stage_5",
+			"geometry": "geometry.blocks.customcrops.pitaya.stage_5_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pitaya_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=false,west=false]": {
+			"name": "pitaya_stage_6",
+			"geometry": "geometry.blocks.customcrops.pitaya.stage_6_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pitaya_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=true,west=true]": {
+			"name": "pineapple_stage_1",
+			"geometry": "geometry.blocks.customcrops.pineapple.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pineapple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=true,west=true]": {
+			"name": "pineapple_stage_2",
+			"geometry": "geometry.blocks.customcrops.pineapple.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pineapple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=true,west=false]": {
+			"name": "pineapple_stage_3",
+			"geometry": "geometry.blocks.customcrops.pineapple.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pineapple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=true,west=false]": {
+			"name": "pineapple_stage_4",
+			"geometry": "geometry.blocks.customcrops.pineapple.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pineapple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=true,west=true]": {
+			"name": "pepper_stage_1",
+			"geometry": "geometry.blocks.customcrops.pepper.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pepper_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=true,west=true]": {
+			"name": "pepper_stage_2",
+			"geometry": "geometry.blocks.customcrops.pepper.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pepper_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=false]": {
+			"name": "pepper_stage_3",
+			"geometry": "geometry.blocks.customcrops.pepper.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pepper_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=false]": {
+			"name": "pepper_stage_4",
+			"geometry": "geometry.blocks.customcrops.pepper.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pepper_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=true]": {
+			"name": "pepper_stage_5",
+			"geometry": "geometry.blocks.customcrops.pepper.stage_5_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pepper_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=false,west=true]": {
+			"name": "hop_stage_1",
+			"geometry": "geometry.blocks.customcrops.hop.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "hop_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=false,west=true]": {
+			"name": "hop_stage_2",
+			"geometry": "geometry.blocks.customcrops.hop.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "hop_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=true,west=false]": {
+			"name": "hop_stage_3",
+			"geometry": "geometry.blocks.customcrops.hop.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "hop_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=true,west=false]": {
+			"name": "hop_stage_4",
+			"geometry": "geometry.blocks.customcrops.hop.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "hop_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=true,west=true]": {
+			"name": "grape_stage_1",
+			"geometry": "geometry.blocks.customcrops.grape.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "grape_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=true,west=true]": {
+			"name": "grape_stage_2",
+			"geometry": "geometry.blocks.customcrops.grape.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "grape_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=true,west=false]": {
+			"name": "grape_stage_3",
+			"geometry": "geometry.blocks.customcrops.grape.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "grape_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=true,west=false]": {
+			"name": "grape_stage_4",
+			"geometry": "geometry.blocks.customcrops.grape.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "grape_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=true,west=true]": {
+			"name": "grape_stage_5",
+			"geometry": "geometry.blocks.customcrops.grape.stage_5_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "grape_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=true,west=true]": {
+			"name": "grape_stage_6",
+			"geometry": "geometry.blocks.customcrops.grape.stage_6_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "grape_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=true,west=true]": {
+			"name": "garlic_stage_1",
+			"geometry": "geometry.blocks.customcrops.garlic.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "garlic_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=true,west=true]": {
+			"name": "garlic_stage_2",
+			"geometry": "geometry.blocks.customcrops.garlic.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "garlic_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=false,west=false]": {
+			"name": "garlic_stage_3",
+			"geometry": "geometry.blocks.customcrops.garlic.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "garlic_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=false]": {
+			"name": "garlic_stage_4",
+			"geometry": "geometry.blocks.customcrops.garlic.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "garlic_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=false,west=false]": {
+			"name": "eggplant_stage_1",
+			"geometry": "geometry.blocks.customcrops.eggplant.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "eggplant_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=false,west=false]": {
+			"name": "eggplant_stage_2",
+			"geometry": "geometry.blocks.customcrops.eggplant.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "eggplant_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=false,west=true]": {
+			"name": "eggplant_stage_3",
+			"geometry": "geometry.blocks.customcrops.eggplant.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "eggplant_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=false,west=true]": {
+			"name": "eggplant_stage_4",
+			"geometry": "geometry.blocks.customcrops.eggplant.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "eggplant_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=true]": {
+			"name": "corn_stage_1",
+			"geometry": "geometry.blocks.customcrops.corn.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "corn_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=false,west=true]": {
+			"name": "corn_stage_2",
+			"geometry": "geometry.blocks.customcrops.corn.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "corn_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=true,west=false]": {
+			"name": "corn_stage_3",
+			"geometry": "geometry.blocks.customcrops.corn.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "corn_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=true,west=false]": {
+			"name": "corn_stage_4",
+			"geometry": "geometry.blocks.customcrops.corn.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "corn_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=true]": {
+			"name": "chinese_cabbage_stage_1",
+			"geometry": "geometry.blocks.customcrops.chinese_cabbage.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "chinese_cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=false]": {
+			"name": "chinese_cabbage_stage_2",
+			"geometry": "geometry.blocks.customcrops.chinese_cabbage.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "chinese_cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=true,south=false,west=false]": {
+			"name": "chinese_cabbage_stage_3",
+			"geometry": "geometry.blocks.customcrops.chinese_cabbage.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "chinese_cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=true]": {
+			"name": "chinese_cabbage_stage_4",
+			"geometry": "geometry.blocks.customcrops.chinese_cabbage.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "chinese_cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=false,west=true]": {
+			"name": "cabbage_stage_1",
+			"geometry": "geometry.blocks.customcrops.cabbage.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=true]": {
+			"name": "cabbage_stage_2",
+			"geometry": "geometry.blocks.customcrops.cabbage.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=false,west=false]": {
+			"name": "cabbage_stage_3",
+			"geometry": "geometry.blocks.customcrops.cabbage.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=false,west=false]": {
+			"name": "cabbage_stage_4",
+			"geometry": "geometry.blocks.customcrops.cabbage.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "cabbage_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=true,west=true]": {
+			"name": "apple_stage_1",
+			"geometry": "geometry.blocks.customcrops.apple.stage_1_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "apple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=true,west=true]": {
+			"name": "apple_stage_2",
+			"geometry": "geometry.blocks.customcrops.apple.stage_2_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "apple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=true,west=false]": {
+			"name": "apple_stage_3",
+			"geometry": "geometry.blocks.customcrops.apple.stage_3_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "apple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=true,west=false]": {
+			"name": "apple_stage_4",
+			"geometry": "geometry.blocks.customcrops.apple.stage_4_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "apple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=true,west=true]": {
+			"name": "apple_stage_5",
+			"geometry": "geometry.blocks.customcrops.apple.stage_5_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "apple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=true,west=true]": {
+			"name": "apple_stage_6",
+			"geometry": "geometry.blocks.customcrops.apple.stage_6_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "apple_block",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		},
+		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false]": {
+			"name": "dead_crop",
+			"geometry": "geometry.blocks.customcrops.dead_crop_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "dead_crop",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false,
+     		"selection_box": {
+        		"origin": [-5, 0, -5],
+        		"size": [10, 1, 10]
+      		}
+		}
+    }
+}

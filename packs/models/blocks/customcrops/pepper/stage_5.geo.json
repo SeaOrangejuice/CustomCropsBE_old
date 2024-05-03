@@ -1,0 +1,93 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.blocks.customcrops.pepper.stage_5_geo.soojcraft",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-11, 0, 0],
+							"size": [22, 30, 0],
+							"pivot": [0, 0, 0],
+							"rotation": [0, -45, 0],
+							"uv": {
+								"north": {"uv": [5.33333, 5.33334], "uv_size": [2.66666, 5.33333]}
+							}
+						},
+						{
+							"origin": [-1, 2, -2],
+							"size": [2, 6, 0],
+							"pivot": [-2, 8, -3],
+							"rotation": [0, -22.5, 0],
+							"uv": {
+								"south": {"uv": [8.33333, 8.5], "uv_size": [0.33333, 1]}
+							}
+						},
+						{
+							"origin": [-7, 3, -4],
+							"size": [2, 6, 0],
+							"pivot": [-2, 8, -3],
+							"rotation": [0, -22.5, 0],
+							"uv": {
+								"south": {"uv": [8.33333, 8.5], "uv_size": [0.33333, 1]}
+							}
+						},
+						{
+							"origin": [1, 4, 6],
+							"size": [2, 6, 0],
+							"pivot": [1, 11.5, -2],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"south": {"uv": [8.33333, 8.5], "uv_size": [0.33333, 1]}
+							}
+						},
+						{
+							"origin": [-6, 7, 1],
+							"size": [0, 6, 2],
+							"pivot": [1, 11.5, -2],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"east": {"uv": [8.33333, 8.5], "uv_size": [0.33333, 1]}
+							}
+						},
+						{
+							"origin": [5, 12, -6],
+							"size": [0, 6, 2],
+							"uv": {
+								"east": {"uv": [8.33333, 8.5], "uv_size": [0.33333, 1]}
+							}
+						},
+						{
+							"origin": [1, 10, -2],
+							"size": [2, 6, 0],
+							"pivot": [1, 11.5, -2],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"north": {"uv": [8.33333, 8.5], "uv_size": [0.33333, 1]}
+							}
+						},
+						{
+							"origin": [0, 0, -11],
+							"size": [0, 30, 22],
+							"pivot": [0, 0, 0],
+							"rotation": [0, -45, 0],
+							"uv": {
+								"east": {"uv": [5.33333, 5.33334], "uv_size": [2.66666, 5.33334]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

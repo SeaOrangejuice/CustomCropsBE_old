@@ -1,0 +1,314 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:paper": [
+            {
+                "name": "sprinkler_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10009
+            },
+            {
+                "name": "customcrops_sprinkler_1_item",
+                "allow_offhand": true,
+                "icon": "sprinkler_1_item",
+                "frame": 0,
+                "custom_model_data": 10010
+            },
+            {
+                "name": "sprinkler_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10011
+            },
+            {
+                "name": "customcrops_sprinkler_2_item",
+                "allow_offhand": true,
+                "icon": "sprinkler_2_item",
+                "frame": 0,
+                "custom_model_data": 10012
+            },
+            {
+                "name": "sprinkler_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10013
+            },
+            {
+                "name": "customcrops_sprinkler_3_item",
+                "allow_offhand": true,
+                "icon": "sprinkler_3_item",
+                "frame": 0,
+                "custom_model_data": 10014
+            },
+            {
+                "name": "water_effect",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10015
+            },{
+                "name": "scarecrow",
+                "allow_offhand": true,
+                "icon": "scarecrow",
+                "frame": 0,
+                "custom_model_data": 10018
+            },
+            {
+                "name": "customcrops_greenhouse_glass",
+                "allow_offhand": true,
+                "icon": "greenhouse_glass",
+                "frame": 0,
+                "custom_model_data": 10019
+            },
+            {
+                "name": "customcrops_crop_stage_death",
+                "allow_offhand": true,
+                "icon": "dead_crop",
+                "frame": 0,
+                "custom_model_data": 10020
+            },
+            {
+                "name": "customcrops_quality_1",
+                "allow_offhand": true,
+                "icon": "quality_1",
+                "frame": 0,
+                "custom_model_data": 10027
+            },
+            {
+                "name": "customcrops_quality_2",
+                "allow_offhand": true,
+                "icon": "quality_2",
+                "frame": 0,
+                "custom_model_data": 10028
+            },
+            {
+                "name": "customcrops_quality_3",
+                "allow_offhand": true,
+                "icon": "quality_3",
+                "frame": 0,
+                "custom_model_data": 10029
+            },
+            {
+                "name": "customcrops_soil_surveyor",
+                "allow_offhand": true,
+                "icon": "soil_surveyor",
+                "frame": 0,
+                "custom_model_data": 10036
+            },
+            {
+                "name": "customcrops_corn_seeds",
+                "allow_offhand": true,
+                "icon": "corn_seeds",
+                "frame": 0,
+                "custom_model_data": 10046
+            },
+            {
+                "name": "customcrops_grape_seeds",
+                "allow_offhand": true,
+                "icon": "grape_seeds",
+                "frame": 0,
+                "custom_model_data": 10053
+            },
+            {
+                "name": "customcrops_pitaya_seeds",
+                "allow_offhand": true,
+                "icon": "pitaya_seeds",
+                "frame": 0,
+                "custom_model_data": 10060
+            },
+            {
+                "name": "customcrops_hop_seeds",
+                "allow_offhand": true,
+                "icon": "hop_seeds",
+                "frame": 0,
+                "custom_model_data": 10065
+            },
+            {
+                "name": "customcrops_pineapple_seeds",
+                "allow_offhand": true,
+                "icon": "pineapple_seeds",
+                "frame": 0,
+                "custom_model_data": 10070
+            },
+            {
+                "name": "customcrops_gigantic_pineapple",
+                "allow_offhand": true,
+                "icon": "pineapple",
+                "frame": 0,
+                "custom_model_data": 10071
+            },
+            {
+                "name": "customcrops_garlic_seeds",
+                "allow_offhand": true,
+                "icon": "garlic_seeds",
+                "frame": 0,
+                "custom_model_data": 10076
+            },
+            {
+                "name": "customcrops_cabbage_seeds",
+                "allow_offhand": true,
+                "icon": "cabbage_seeds",
+                "frame": 0,
+                "custom_model_data": 10081
+            },
+            {
+                "name": "customcrops_gigantic_cabbage",
+                "allow_offhand": true,
+                "icon": "cabbage",
+                "frame": 0,
+                "custom_model_data": 10082
+            },
+            {
+                "name": "customcrops_tomato_seeds",
+                "allow_offhand": true,
+                "icon": "tomato_seeds",
+                "frame": 0,
+                "custom_model_data": 10087
+            },
+            {
+                "name": "customcrops_gigantic_tomato",
+                "allow_offhand": true,
+                "icon": "tomato",
+                "frame": 0,
+                "custom_model_data": 10088
+            },
+            {
+                "name": "customcrops_eggplant_seeds",
+                "allow_offhand": true,
+                "icon": "eggplant_seeds",
+                "frame": 0,
+                "custom_model_data": 10099
+            },
+            {
+                "name": "customcrops_redpacket_seeds",
+                "allow_offhand": true,
+                "icon": "redpacket_seeds",
+                "frame": 0,
+                "custom_model_data": 10106
+            },
+            {
+                "name": "customcrops_redpacket",
+                "allow_offhand": true,
+                "icon": "redpacket",
+                "frame": 0,
+                "custom_model_data": 10107
+            },
+            {
+                "name": "customcrops_pepper_seeds",
+                "allow_offhand": true,
+                "icon": "pepper_seeds",
+                "frame": 0,
+                "custom_model_data": 10113
+            },
+            {
+                "name": "customcrops_chinese_cabbage_seeds",
+                "allow_offhand": true,
+                "icon": "chinese_cabbage_seeds",
+                "frame": 0,
+                "custom_model_data": 10118
+            },
+            {
+                "name": "customcrops_pot",
+                "allow_offhand": true,
+                "icon": "pot",
+                "frame": 0,
+                "custom_model_data": 10120
+            },
+            {
+                "name": "customcrops_watered_pot",
+                "allow_offhand": true,
+                "icon": "watered_pot",
+                "frame": 0,
+                "custom_model_data": 10121
+            },
+            {
+                "name": "customcrops_speed_grow_1",
+                "allow_offhand": true,
+                "icon": "speed_grow_1",
+                "frame": 0,
+                "custom_model_data": 10123
+            },
+            {
+                "name": "customcrops_speed_grow_2",
+                "allow_offhand": true,
+                "icon": "speed_grow_2",
+                "frame": 0,
+                "custom_model_data": 10124
+            },
+            {
+                "name": "customcrops_speed_grow_3",
+                "allow_offhand": true,
+                "icon": "speed_grow_3",
+                "frame": 0,
+                "custom_model_data": 10125
+            },
+            {
+                "name": "customcrops_soil_retain_1",
+                "allow_offhand": true,
+                "icon": "soil_retain_1",
+                "frame": 0,
+                "custom_model_data": 10126
+            },
+            {
+                "name": "customcrops_soil_retain_2",
+                "allow_offhand": true,
+                "icon": "soil_retain_2",
+                "frame": 0,
+                "custom_model_data": 10127
+            },
+            {
+                "name": "customcrops_soil_retain_3",
+                "allow_offhand": true,
+                "icon": "soil_retain_3",
+                "frame": 0,
+                "custom_model_data": 10128
+            },
+            {
+                "name": "customcrops_yield_increase_1",
+                "allow_offhand": true,
+                "icon": "yield_increase_1",
+                "frame": 0,
+                "custom_model_data": 10129
+            },
+            {
+                "name": "customcrops_yield_increase_2",
+                "allow_offhand": true,
+                "icon": "yield_increase_2",
+                "frame": 0,
+                "custom_model_data": 10130
+            },
+            {
+                "name": "customcrops_yield_increase_3",
+                "allow_offhand": true,
+                "icon": "yield_increase_3",
+                "frame": 0,
+                "custom_model_data": 10131
+            },
+            {
+                "name": "customcrops_variation_1",
+                "allow_offhand": true,
+                "icon": "variation_1",
+                "frame": 0,
+                "custom_model_data": 10132
+            },
+            {
+                "name": "customcrops_variation_2",
+                "allow_offhand": true,
+                "icon": "variation_2",
+                "frame": 0,
+                "custom_model_data": 10133
+            },
+            {
+                "name": "customcrops_variation_3",
+                "allow_offhand": true,
+                "icon": "variation_3",
+                "frame": 0,
+                "custom_model_data": 10134
+            }
+        ]
+    }
+}

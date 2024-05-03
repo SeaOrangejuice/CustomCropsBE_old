@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Crops",
+    "description": "SoojCraft",
+    "uuid": "1322FF6B-97E8-475F-4A10-6133781B3A39",
+    "version": [0, 10, 19]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "Made in Sea of Orange",
+      "uuid": "F72DC0E3-2263-18B9-2A54-19541F1DFAB6",
+      "version": [0, 10, 19]
+    }
+  ]
+}

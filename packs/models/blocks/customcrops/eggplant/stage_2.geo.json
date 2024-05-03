@@ -1,0 +1,61 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.blocks.customcrops.eggplant.stage_2_geo.soojcraft",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "group",
+					"pivot": [-4.5, 3, 1],
+					"cubes": [
+						{
+							"origin": [-8.57402, 0, 1.00818],
+							"size": [16, 16, 0],
+							"uv": {
+								"north": {"uv": [48, 0], "uv_size": [-16, 16]}
+							}
+						},
+						{
+							"origin": [-0.57402, 0, -6.49182],
+							"size": [0, 16, 16],
+							"uv": {
+								"east": {"uv": [48, 0], "uv_size": [-16, 16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [1.2, 0, -13],
+							"size": [0, 16, 16],
+							"pivot": [7.6, 8, 0],
+							"rotation": [0, 45, 0],
+							"uv": {
+								"west": {"uv": [48, 0], "uv_size": [16, 16]}
+							}
+						},
+						{
+							"origin": [-0.46102, 0, -7.01005],
+							"size": [0, 16, 16],
+							"pivot": [-0.46102, 8, 0.98995],
+							"rotation": [0, -45, 0],
+							"uv": {
+								"east": {"uv": [48, 0], "uv_size": [16, 16]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

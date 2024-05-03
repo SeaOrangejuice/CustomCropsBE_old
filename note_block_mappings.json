@@ -1,0 +1,31 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:note_block[instrument=basedrum,note=2,powered=false]": {
+			"name": "pot",
+			"geometry": "geometry.blocks.customcrops.base.pot_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pot",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false
+        },
+		"minecraft:note_block[instrument=basedrum,note=3,powered=false]": {
+			"name": "watered_pot",
+			"geometry": "geometry.blocks.customcrops.base.watered_pot_geo.soojcraft",
+			"material_instances": {
+				"*": {
+					"texture": "pot",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": false
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+  "resource_pack_name": "soojcraft_pack",
+  "num_mip_levels": 4,
+  "padding": 8,
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "mytest": {
+      "textures": "textures/blocks/my_block"
+    },
+    "pot": {
+      "textures": "textures/blocks/customcrops/base/pot"
+    },
+    "greenhouse_glass": {
+      "textures": "textures/blocks/customcrops/base/greenhouse_glass"
+    },
+    "sprinkler_1": {
+      "textures": "textures/blocks/customcrops/base/sprinkler_1"
+    },
+    "sprinkler_2": {
+      "textures": "textures/blocks/customcrops/base/sprinkler_2"
+    },
+    "sprinkler_3": {
+      "textures": "textures/blocks/customcrops/base/sprinkler_3"
+    },
+    "tomato_stage_1": {
+      "textures": "textures/blocks/customcrops/tomato/stage_1"
+    },
+    "tomato_stage_2": {
+      "textures": "textures/blocks/customcrops/tomato/stage_2"
+    },
+    "tomato_stage_3": {
+      "textures": "textures/blocks/customcrops/tomato/stage_3"
+    },
+    "tomato_stage_4": {
+      "textures": "textures/blocks/customcrops/tomato/stage_4"
+    },
+    "tomato_leaves": {
+      "textures": "textures/blocks/customcrops/tomato/tomato_leaves"
+    },
+    "tomato_side": {
+      "textures": "textures/blocks/customcrops/tomato/tomato_side"
+    },
+    "tomato_golden_star": {
+      "textures": "textures/blocks/customcrops/tomato/tomato_golden_star"
+    },
+    "tomato_silver_star": {
+      "textures": "textures/blocks/customcrops/tomato/tomato_silver_star"
+    },
+    "tomato_seeds": {
+      "textures": "textures/blocks/customcrops/tomato/tomato_seeds"
+    },
+    "tomato_block": {
+      "textures": "textures/blocks/customcrops/tomato/tomato"
+    },
+    "tomato_golden_block": {
+      "textures": "textures/blocks/customcrops/tomato/tomato_golden"
+    },
+    "pitaya_block": {
+      "textures": "textures/blocks/customcrops/pitaya/pitaya"
+    },
+    "pineapple_block": {
+      "textures": "textures/blocks/customcrops/pineapple/pineapple"
+    },
+    "pepper_block": {
+      "textures": "textures/blocks/customcrops/pepper/pepper"
+    },
+    "hop_block": {
+      "textures": "textures/blocks/customcrops/hop/hop"
+    },
+    "grape_block": {
+      "textures": "textures/blocks/customcrops/grape/grape"
+    },
+    "garlic_block": {
+      "textures": "textures/blocks/customcrops/garlic/garlic"
+    },
+    "eggplant_block": {
+      "textures": "textures/blocks/customcrops/eggplant/eggplant"
+    },
+    "corn_block": {
+      "textures": "textures/blocks/customcrops/corn/corn"
+    },
+    "chinese_cabbage_block": {
+      "textures": "textures/blocks/customcrops/chinese_cabbage/chinese_cabbage"
+    },
+    "cabbage_block": {
+      "textures": "textures/blocks/customcrops/cabbage/cabbage"
+    },
+    "apple_block": {
+      "textures": "textures/blocks/customcrops/apple/apple"
+    },
+    "dead_crop": {
+      "textures": "textures/blocks/customcrops/base/dead_crop"
+    }
+  }
+}
